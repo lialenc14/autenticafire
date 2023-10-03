@@ -5,7 +5,7 @@ import { KeyboardAvoidingView, TextInput, TouchableOpacity } from 'react-native'
 const TelaLogin = () => {
   return (
     <KeyboardAvoidingView
-      style={styles.contaniner}
+      style={styles.container}
       behavior="padding"
       >
       <View style={styles.inputContainer}>
